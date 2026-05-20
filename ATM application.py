@@ -30,7 +30,6 @@ if a == "c":
 
     else:
         print("Invalid password")
-
 else:
     print("Invalid card")
         
